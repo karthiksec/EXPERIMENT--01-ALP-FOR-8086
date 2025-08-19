@@ -131,6 +131,39 @@ MOV [2000H],AX
 ## Output
 <img width="1666" height="752" alt="image" src="https://github.com/user-attachments/assets/4b5c19cc-fb77-447d-aa08-7c12b4c5edde" />
 
+## OR
+```
+org 100h
+MOV AX,2F11H
+MOV BX,1125H
+OR AX,BX     
+MOV [2002H],AX
+ret
+```
+## Output
+<img width="1660" height="747" alt="image" src="https://github.com/user-attachments/assets/7cd1c90b-58af-4c16-aefb-8aa75f06df69" />
+
+## NOT
+```
+org 100h
+mov ax,4535h
+NOT ax
+ret
+```
+## Output
+<img width="1663" height="748" alt="image" src="https://github.com/user-attachments/assets/1e3d870c-e9f7-4ae4-afc9-ee1c1129cba1" />
+
+## EX-OR
+```
+org 100h
+MOV AX,2F11H
+MOV BX,1125H
+XOR AX,BX     
+MOV [2002H],AX
+ret
+```
+## Output
+<img width="1654" height="751" alt="image" src="https://github.com/user-attachments/assets/2d5580db-95da-4837-88c1-2afc85cb4513" />
 
 ## Result :
  
