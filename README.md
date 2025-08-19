@@ -1,7 +1,7 @@
 ## EXPERIMENT 01- ARITHMETIC OPERATION AND LOGICAL OPERATION IN 8086
 ## Name : KARTHIK G
 ## Roll no: 212223220043
-## Date of experiment :
+## Date of experiment :19/08/2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
