@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+<img width="1649" height="796" alt="image" src="https://github.com/user-attachments/assets/69d715e7-5434-465c-a231-86c0b31edc17" /># EXPERIMENT--01-ALP-FOR-8086
 Name :
 Roll no 
 Date of experiment :
@@ -103,7 +103,16 @@ ret
 <img width="1663" height="805" alt="image" src="https://github.com/user-attachments/assets/b28f7f7e-6423-4924-b402-1dcb30f5c64b" />
 
 ## Multiplication alp 
+```
+org 100h
+Mov AL,74H
+MOV BL,69H
+MUL BL
+HLT
+ret
+```
  ## Output  
+<img width="1649" height="796" alt="image" src="https://github.com/user-attachments/assets/d34f878f-9f91-4a79-8668-4eaf1de58276" />
 
 
 ## Division alp 
