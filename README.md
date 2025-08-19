@@ -1,11 +1,7 @@
 <img width="1649" height="796" alt="image" src="https://github.com/user-attachments/assets/69d715e7-5434-465c-a231-86c0b31edc17" /># EXPERIMENT--01-ALP-FOR-8086
-Name : KARTHIK G
-Roll no: 212223220043
-Date of experiment :
-
-
-
-
+## Name : KARTHIK G
+## Roll no: 212223220043
+## Date of experiment :
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
@@ -124,6 +120,17 @@ hlt
 ```
 ## Output  
 <img width="1657" height="753" alt="image" src="https://github.com/user-attachments/assets/8115bd98-6e03-4495-bff1-cebe4bca5633" />
+
+## AND
+```
+org 100h
+MOV AX,2F11H
+MOV BX,1125H
+AND AX,BX
+MOV [2000H],AX
+```
+## Output
+<img width="1666" height="752" alt="image" src="https://github.com/user-attachments/assets/4b5c19cc-fb77-447d-aa08-7c12b4c5edde" />
 
 
 ## Result :
