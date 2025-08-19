@@ -1,4 +1,3 @@
-<img width="1649" height="796" alt="image" src="https://github.com/user-attachments/assets/69d715e7-5434-465c-a231-86c0b31edc17" /># EXPERIMENT--01-ALP-FOR-8086
 ## Name : KARTHIK G
 ## Roll no: 212223220043
 ## Date of experiment :
