@@ -116,8 +116,14 @@ ret
 
 
 ## Division alp 
-
+```
+mov al,68h
+mov bl,18h
+div bl
+hlt
+```
 ## Output  
+<img width="1657" height="753" alt="image" src="https://github.com/user-attachments/assets/8115bd98-6e03-4495-bff1-cebe4bca5633" />
 
 
 ## Result :
